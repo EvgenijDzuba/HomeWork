@@ -10,6 +10,5 @@ print((2+2)*2)
 print((2+2)*2==2+2*2)
 
 # 4th program
-print(int(float('123.456')%1*10//1))
-print('Задание выполнено')
-print('на отлично')
+print(int(float('123.456')*10)%10)
+
